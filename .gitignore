@@ -1,0 +1,4 @@
+build/
+input.txt
+output.txt
+*.o
